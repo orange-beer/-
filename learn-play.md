@@ -26,7 +26,7 @@ git checkout -b branch_name
 git branch -d branch_name
 ### 强制删除分支
 git branch -D branch_name
-# 合并分支
+### 合并分支
 git merge branch_name
 ### 拉取远程仓库的更新
 git pull
